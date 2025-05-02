@@ -1,3 +1,4 @@
+import React from 'react';
 import { useState, useEffect } from "react";
 import { AppContext } from "./AppContext";
 import { dummyCourses } from "../assets/assets";
