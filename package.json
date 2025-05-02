@@ -1,16 +1,13 @@
 {
   "name": "client",
-  "homepage": "https://Emmanuel-x123.github.io/IQbase/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "scripts": {
+"scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "preview": "vite preview"
   },
   "dependencies": {
     "@clerk/clerk-react": "^5.25.0",
