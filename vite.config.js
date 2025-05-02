@@ -1,6 +1,7 @@
 import viteCompression from 'vite-plugin-compression';
 
 export default {
+  base: '/IQbase/',
   plugins: [
     viteCompression({
       algorithm: 'gzip', 
