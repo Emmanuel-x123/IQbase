@@ -24,7 +24,7 @@ const Navbar = ({ toggleSidebar }) => {
         
         <img
           onClick={() => navigate('/')}
-          src={assets.logo}
+          src={assets.logo_IQ}
           alt="Logo"
           className="w-24 sm:w-28 md:w-32 cursor-pointer transition-transform hover:scale-105"
         />

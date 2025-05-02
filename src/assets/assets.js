@@ -42,6 +42,8 @@ import profile_img from './profile_img.png'
 import profile_img2 from './profile_img2.png'
 import profile_img3 from './profile_img3.png'
 import lesson_icon from './lesson_icon.svg'
+import logo_IQ from './logo_IQ.svg';
+import logo_IQ2 from './logo_IQ2.svg';
 
 
 export const assets = {
@@ -67,6 +69,8 @@ export const assets = {
     cross_icon,
     upload_area,
     logo_dark,
+    logo_IQ,
+    logo_IQ2,
     down_arrow_icon,
     time_left_clock_icon,
     time_clock_icon,
